@@ -8,7 +8,8 @@ He/him/his
 ### 🌱 What do I do and What have I done? 
 
 - Mentor and student ambassador for the ECE department at Purdue University, Indianapolis.
-- Recipient of an IEEE Best Paper and two IEEE Best Presentation awards.
+- Developed an award-winning deep neural network algorithm for computer vision called CondenseNeXt.
+- Recipient of an IEEE Best Paper and two IEEE Best Presentation awards for my published peer-reviewed work in international conferences.
 - Working independently on R&D of a state-of-the-art autonomous rover for military and federal law enforcement agencies globally.
 - Worked on a research project along with a Ph.D. student to develop a semi-autonomous robot for a major U.S. Defense contractor in Indiana.
 - Published three scientific first-author scholarly research journals in PGScience-AJECE, MDPI-JLPEA and MDPI-Future Internet.
