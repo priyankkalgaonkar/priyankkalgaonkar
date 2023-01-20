@@ -13,7 +13,7 @@ He/him/his
 - Worked on a research project along with a Ph.D. student to develop a semi-autonomous robot for a major U.S. Defense contractor in Indiana.
 - Published three scientific first-author scholarly research journals in PGScience-AJECE, MDPI-JLPEA and MDPI-Future Internet.
 - Served key leadership roles at the University of Toledo, most notably as a team leader for the Self-Checkout Shopping Cart capstone project.
-- Recipient of IUPUI Service Award by Indiana University-Purdue University Indianapolis.
+- Recipient of IUPUI Service Award awarded by Indiana University-Purdue University Indianapolis.
 
 
 ### ⚡ One line that describes me best? 
