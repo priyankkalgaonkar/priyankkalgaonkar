@@ -32,11 +32,9 @@ You can ask me anything! I am looking forward to absorb knowledge 🧠, gain exp
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/priyankkalgaonkar/count.svg" />
+  <img src="dino.gif" width="80%"><br/><br/>
 </p>
 
-<img src="dino.gif" width="90%"><br/><br/>
-
-***
 
 <!--
 **priyankkalgaonkar/priyankkalgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
