@@ -22,7 +22,7 @@ An ambitious guy who loves to travel, make new friends, day dream at nights and 
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/pkalgaonkar) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
+- [LinkedIn](https://www.linkedin.com/in/priyankkalgaonkar) 
 - [My personal portfolio](https://priyankkalgaonkar.com)
 - [Google Scholar](https://scholar.google.com/citations?user=0Y8WIhgAAAAJ&hl=en)
 - My projects on [YouTube](https://www.youtube.com/channel/UCpbbG5kiZbM4MIW9lRcseaQ)
