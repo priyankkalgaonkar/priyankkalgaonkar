@@ -31,12 +31,12 @@ An ambitious guy who loves to travel, make new friends, day dream at nights and 
 You can ask me anything! I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 
-<p align="center"> 
+<p align="center">
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/priyankkalgaonkar/count.svg" />
-  <img src="dino.gif" width="80%"><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=priyankkalgaonkar-1993start&label=Profile%20Views%20since%20Nov.%201,%202025&color=0e75b6&style=flat" alt="visitor badge"/>
+  <br><br>
+  <img src="dino.gif" width="80%">
 </p>
-
 
 <!--
 **priyankkalgaonkar/priyankkalgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
